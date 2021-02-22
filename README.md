@@ -7,7 +7,7 @@ Algoritmos implementados na matéria de Teoria dos Grafos.
 
 ### Executar
 ##### Buscas(bfs, dfs)
--`python nome.py teste/bsf_dfs.txt
+* python nome.py teste/bsf_dfs.txt
 
 ##### Caminho mínimo
--`python bellman_ford.py test/bellman_ford.txt
+* python bellman_ford.py test/bellman_ford.txt
