@@ -1,0 +1,15 @@
+8
+A B C D E F G H
+11
+A B 1
+A C 1
+B C 3
+B D 2
+C D 1
+D E 3
+D F 2
+E G 1
+F G 4
+F H 3
+G H 1
+A
