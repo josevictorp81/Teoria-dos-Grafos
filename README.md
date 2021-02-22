@@ -6,7 +6,7 @@ Algoritmos implementados na matéria de Teoria dos Grafos.
 [NetworkX](https://networkx.org)
 
 ### Executar
-##### Buscas(bfs, dfs)
+##### Buscas(largura, profundidade)
 * python nome.py teste/bsf_dfs.txt
 
 ##### Caminho mínimo
